@@ -56,7 +56,7 @@ MovieApp/
 ## Installation & SetUp
 
 **1. Clone the repository**
-git clone https://github.com/yourusername/movieapp.git
+git clone  https://github.com/parasmalhotra522/MovieApplication.git
 cd movieapp
 
 **2. Install dependencies**
