@@ -21,7 +21,7 @@ Built with **Expo** for fast development and smooth cross-platform performance.
 
  ![Home Screen](./assets/HomeScreen.png) | ![Movie Detail](./assets/MovieDetail.png) |
 ![Movie Detail](./assets/MovieDetail2.png) 
-> 📌 *Replace the placeholder screenshots with your actual app UI screenshots.*
+
 
 ---
 
